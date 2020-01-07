@@ -4,5 +4,5 @@ This repository contains notebooks of my upcoming Medium articles on how to crun
 
 For now the parts available are :
 
-    Part 00 : [fetching data through the API](CSGO_Teams-Part01_fetching data through the API.ipynb)
-    Part 01 : extracting and cleaning
+    Part 01 : fetching data through the API
+    Part 02 : extracting and cleaning
